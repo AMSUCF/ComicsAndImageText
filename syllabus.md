@@ -20,7 +20,7 @@ Assignments include weekly discussions with shared close readings; comic annotat
 
 ## Materials and Texts
 
-While students are welcome to purchase the individual books, all primary texts will be available through [Comixology Unlimited](https://www.comixology.com/unlimited), a service with a free one-month trial ($6 monthly after) that is significantly cheaper than the purchase price of the course texts. Secondary texts will be available as PDFs or on library e-reserve (marked with an asterisk). 
+While students are welcome to purchase the individual books, all primary texts will be available through [Comixology Unlimited](https://www.comixology.com/unlimited), a service with a free one-month trial ($6 monthly after) that is significantly cheaper than the purchase price of the course texts. Secondary texts will be available as PDFs or on library e-reserve (marked with an asterisk).
 
 - Coates, Ta-Nehisi, et al. *Black Panther: A Nation Under Our Feet,* Vol. 1.. Marvel, 2016.
 - Davis, Eleanor. *How To Be Happy.* Illustrated edition, Fantagraphics, 2014.
@@ -35,19 +35,92 @@ While students are welcome to purchase the individual books, all primary texts w
 - Wilson, G. Willow, et al. *Ms. Marvel*, Vol. 1: No Normal. Marvel, 2014.
 - Yang, Gene Luen. *New Super-Man*, Vol. 1: Made In China. Illustrated edition, DC Comics, 2017.
 
-Additional recommended readings are included in each module to guide work towards the final research paper. Not all texts need to be read in their completion (guidance and suggestions will be offered in the modules), but as graphic novels are generally short, we will typically look at one book a week with supplemental secondary readings. 
+Additional recommended readings are included in each module to guide work towards the final research paper. Not all texts need to be read in their completion (guidance and suggestions will be offered in the modules), but as graphic novels are generally short, we will typically look at one book a week with supplemental secondary readings.
 
 ## Evaluation and Grading
 
 | Points  | Assignment  | Due Date  |
 |---|---|---|
-| 5  | Activity Verification  | Friday, May 21st  |
-| 30  | Discussions  | Weekly |
-| 10 | Comics Annotation  | Sunday, June 13, 2021  |
-| 10  |  Literature Review | Sunday, June 27, 2021  |
-| 15  |  Paper Draft | Sunday, July 11, 2021  |
-| 10  |  Peer Review Feedback | Sunday, July 18, 2021  |
-| 20 |  Final Paper | Sunday, August 1, 2021  |
+| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course.  | Friday, May 21st  |
+| 30  | **Discussions** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. | Weekly |
+| 10 | **Comics Annotation** - Using the methodology of *How to Read Nancy*, annotate a section of the work chosen for final analysis.  | Sunday, June 13, 2021  |
+| 10  |  **Literature Review** - Gather at least five additional scholarly sources, and two journalistic or fan sources, to compleete a literature review for the final analysis paper. | Sunday, June 27, 2021  |
+| 15  |  **Paper Draft** - An approximately 5,000 word draft of a final paper targeting a single graphic novel or comic, chosen in consulation with the professor, and building from the annotation and literature review. | Sunday, July 11, 2021  |
+| 10  |  **Peer Review Feedback** - Paired critique and detailed, constructive, response to an assigned draft. | Sunday, July 18, 2021  |
+| 20 |  **Final Paper** - A complete 6,000 - 7,000 word draft of the final paper, targeted towards one of the suggested venues, and prepared with future submission in mind. | Sunday, August 1, 2021  |
+
+## Weekly Schedule
+
+### Week One: "Kid Stuff" (Opens Monday, May 17, 2021)
+
+- *How to Read Nancy*: Strip, Script
+- Stevenson, Noelle, et al. *Lumberjanes*, Vol. 1. BOOM! - BOOM! Box, 2015.
+- Hatfield, Charles. “Comic Art, Children’s Literature, and the New Comic Studies.” *The Lion and the Unicorn*, vol. 30, no. 3, Johns Hopkins University Press, 2006, pp. 360–82. Project MUSE, doi:10.1353/uni.2006.0031.
+
+### Week Two: Pictures (Opens Monday, May 24, 2021)
+
+- *How to Read Nancy*: Cast
+Jason. *Tell Me Something.* Fantagraphics, 2004.
+- Nikolajeva, Maria, and Carole Scott. “The Dynamics of Picturebook Communication.” *Children’s Literature in Education*, vol. 31, no. 4, 2000, pp. 225–39. DOI.org (Crossref), doi:10.1023/A:1026426902123.
+
+### Week Three: Words (Opens Monday, May 31, 2021)
+
+- *How to Read Nancy*: Props, Costumes
+- Snyder, Scott and Jeff Lemire. *A.D. After Death*, Vol 1. Image Comics, 2016.
+- Witek, Joseph. [“Imagetext, or, Why Art Spiegelman Doesn’t Draw Comics.” *ImageText Vol 1:1*, 2004.](http://imagetext.english.ufl.edu/archives/v1_1/witek/)
+
+### Week Four: Time (Opens Monday, June 7, 2021)
+
+- *How to Read Nancy*: Production, Staging
+- Jason. *Tell Me Something.* Fantagraphics, 2004.
+- Souza, Marcelo Mendes de. “Comic-Chronotope in Julio’s Day: Gilbert Hernandez’s Explorations of the Form-Shaping Ideologies of the Medium.” *Journal of Graphic Novels and Comics*, vol. 8, no. 4, Routledge, July 2017, pp. 359–75. Taylor and Francis+NEJM, doi:10.1080/21504857.2017.1299021.
+
+### Week Five: Memory (Opens Monday, June 14, 2021)
+
+- *How to Read Nancy*: Performance
+- Brosh, Allie. "The God of Cake." [*Hyperbole and a Half.* 2010.](http://hyperboleandahalf.blogspot.com/2010/10/god-of-cake.html)
+- Quesenberry, Krista. “Intersectional and Non-Human Self-Representation in Women’s Autobiographical Comics.” *Journal of Graphic Novels and Comics*, vol. 8, no. 5, Routledge, Sept. 2017, pp. 417–32. Taylor and Francis+NEJM, doi:10.1080/21504857.2017.1355831.
+
+### Week Six: Body (Opens Monday, June 21, 2021)
+
+- *How to Read Nancy*: Eye, Hand
+- Una. *Becoming Unbecoming.* Illustrated edition, Arsenal Pulp Press, 2016.*
+- Chute, Hillary. “Feminist Graphic Art.” *Feminist Studies*, vol. 44, no. 1, Feminist Studies, Inc., 2018, pp. 153–70. JSTOR, doi:10.15767/feministstudies.44.1.0153.
+
+### Week Seven: Self (Opens Monday, June 28, 2021)
+
+- *How to Read Nancy*: Details, Reader, The Strip (Again)
+- Davis, Eleanor. *How To Be Happy.* Illustrated edition, Fantagraphics, 2014.
+-Brown, Hillary. [“Taking Inventory: The Comics Of Eleanor Davis |.” The Comics Journal, 16 June 2020.](http://www.tcj.com/taking-inventory-the-comics-of-eleanor-davis/)
+
+### Week Eight: Trauma (Opens Monday, July 5, 2021)
+
+- DeConnick, Kelly Sue, and Valentine De Landro. *Bitch Planet*, Vol. 1: Extraordinary Machine. Illustrated edition, Image Comics, 2015.
+- Gray, Brenna Clarke, and David N. Wright. “Decentering the Sexual Aggressor: Sexual Violence, Trigger Warnings and Bitch Planet.” Journal of Graphic Novels and Comics, vol. 8, no. 3, Routledge, May 2017, pp. 264–76. Taylor and Francis+NEJM, doi:10.1080/21504857.2017.1307240.
+- Whitted, Qiana. [“Caged and Enraged: Bitch Planet Comics Studies Round Table (Part One).” The Middle Spaces, 6 Mar. 2018.](https://themiddlespaces.com/2018/03/06/bitch-planet-1/)
+
+### Week Nine: Heroes (Opens Monday, July 12, 2021)
+
+- Wilson, G. Willow, et al. *Ms. Marvel*, Vol. 1: No Normal. Marvel, 2014.
+- Yang, Gene Luen. *New Super-Man*, Vol. 1: Made In China. Illustrated edition, DC Comics, 2017.
+- Kent, Miriam. “Unveiling Marvels: Ms. Marvel and the Reception of the New Muslim Superheroine.” Feminist Media Studies, vol. 15, no. 3, Routledge, May 2015, pp. 522–27. Taylor and Francis+NEJM, doi:10.1080/14680777.2015.1031964.
+
+### Week Ten: Futures (Opens Monday, July 19, 2021)
+
+- Coates, Ta-Nehisi, et al. *Black Panther: A Nation Under Our Feet,* Vol. 1.. Marvel, 2016.
+- Okorafor, Nnedi, and Leonardo Romero. *Shuri: The Search for Black Panther.* Illustrated edition, Marvel, 2019.
+- carrington, andré. “Desiring Blackness: A Queer Orientation to Marvel’s Black Panther, 1998–2016.” *American Literature*, vol. 90, no. 2, June 2018, pp. 221–50. Silverchair, doi:10.1215/00029831-4564286.
+- Chambliss, Julian C. “The Evolution of the Idea.” Science Fiction Film and Television, vol. 12, no. 3, Liverpool University Press, 2019, pp. 373–80.
+
+### Week Eleven: Platforms (Opens Monday, July 26, 2021)
+
+- Carroll, Emily. [*The Worthington.* 2018.](http://emcarroll.com/comics/worthington/)
+- Gillman, Melanie. [*As the Crow Flies.* 2012-2021.](https://www.melaniegillman.com/comic/01-25-2012/)
+- Resha, Adrienne. “The Blue Age of Comic Books.” Inks: The Journal of the Comics Studies Society, vol. 4, no. 1, The Ohio State University Press, 2020, pp. 66–81. Project MUSE, doi:10.1353/ink.2020.0003.
+
+### Week Twelve: Final Paper (Opens Monday, August 2, 2021)
+
+- No readings: complete and submit final paper
 
 ## General Policies
 
@@ -84,7 +157,7 @@ The University of Central Florida is committed to providing access and inclusion
 
 ### Campus Safety Statement
 
-In the event you are working from or near campus, please note the following policies with regards to campus safety: 
+In the event you are working from or near campus, please note the following policies with regards to campus safety:
 
 - To stay informed about emergency situations, students can sign up to receive UCF text alerts by going to <https://my.ucf.edu> and logging in. Click on “Student Self Service” located on the left side of the screen in the toolbar, scroll down to the blue “Personal Information” heading on the Student Center screen, click on “UCF Alert”, fill out the information, including e-mail address, cell phone number, and cell phone provider, click “Apply” to save the changes, and then click “OK.”
 - Students with special needs related to emergency situations should speak with their instructors outside of class.
@@ -95,7 +168,7 @@ Students who are deployed active duty military and/or National Guard personnel a
 
 ### Authorized Events and Religious Observances
 
-Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied. 
+Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied.
 
 Students must notify their instructor in advance if they intend to miss class for a religious observance. For more information, see the [UCF policy](http://regulations.ucf.edu/chapter5/documents/5.020ReligiousObservancesFINALJan19.pdf).
 
