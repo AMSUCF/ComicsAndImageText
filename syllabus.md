@@ -6,7 +6,7 @@
 
 ## Course Description
 
-In this seminar, we will explore the contemporary comic, considering literary and cultural works across a range of platforms and markets. As we survey works by influential artists and authors including Ta-Nehisi Coates, Gilbert Hernandez, Jason, Nnedi Okorafor, Noelle Stevenson, and Gene Luen Yang, we will consider the influence of changing technologies and distribution mechanisms on our understanding of "comics" and imagetext more broadly. Forms under examination include:
+In this seminar, we will explore the contemporary comic, considering literary and cultural works across a range of platforms and markets. Comics are still frequently (and historically) associated with popular culture, and linked to children's literature and mass media, even as they loom large through big and small screen adaptations with global reach. However, the combination of image and text has a powerful role in literary practice. As we survey works by influential artists and authors including Ta-Nehisi Coates, Gilbert Hernandez, Jason, Nnedi Okorafor, Noelle Stevenson, and Gene Luen Yang, we will consider the influence of changing technologies and distribution mechanisms on our understanding of "comics" and imagetext more broadly. Forms under examination include:
 
 - Newspaper one-panel and "daily" strips
 - Experimental graphic novels
@@ -17,6 +17,14 @@ In this seminar, we will explore the contemporary comic, considering literary an
 - Motion comics and interactive work
 
 Assignments include weekly discussions with shared close readings; comic annotation; and an iterative conference-length research paper.
+
+## Course Objectives
+
+- Develop an understanding of comics as a form, including the terminology and theoretical frameworks necessary to discuss image-texts broadly
+- Explore the influence of comics on culture through both popular icons and independent, literary works
+- Analyze comics and graphic novels through an intersectional lens, situating them as a site of cultural conflict and identity discourse
+- Situate arguments in the history of comic studies, and draw parallels to other literary forms and theories
+- Critique emerging and experimental works in the context of changing platforms and technologies impacting creation, distribution, and reception of image-text
 
 ## Materials and Texts
 
