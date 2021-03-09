@@ -52,7 +52,7 @@ Additional recommended readings are included in each module to guide work toward
 | 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course.  | Friday, May 21st  |
 | 30  | **Discussions** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. | Weekly |
 | 10 | **Comics Annotation** - Using the methodology of *How to Read Nancy*, annotate a section of the work chosen for final analysis.  | Sunday, June 13, 2021  |
-| 10  |  **Literature Review** - Gather at least five additional scholarly sources, and two journalistic or fan sources, to compleete a literature review for the final analysis paper. | Sunday, June 27, 2021  |
+| 10  |  **Literature Review** - Gather at least five additional scholarly sources, and two journalistic or fan sources, to complete a literature review for the final analysis paper. | Sunday, June 27, 2021  |
 | 15  |  **Paper Draft** - An approximately 5,000 word draft of a final paper targeting a single graphic novel or comic, chosen in consulation with the professor, and building from the annotation and literature review. | Sunday, July 11, 2021  |
 | 10  |  **Peer Review Feedback** - Paired critique and detailed, constructive, response to an assigned draft. | Sunday, July 18, 2021  |
 | 20 |  **Final Paper** - A complete 6,000 - 7,000 word draft of the final paper, targeted towards one of the suggested venues, and prepared with future submission in mind. | Sunday, August 1, 2021  |
@@ -64,6 +64,7 @@ Additional recommended readings are included in each module to guide work toward
 - *How to Read Nancy*: Strip, Script
 - Stevenson, Noelle, et al. *Lumberjanes*, Vol. 1. BOOM! - BOOM! Box, 2015.
 - Hatfield, Charles. “Comic Art, Children’s Literature, and the New Comic Studies.” *The Lion and the Unicorn*, vol. 30, no. 3, Johns Hopkins University Press, 2006, pp. 360–82. Project MUSE, doi:10.1353/uni.2006.0031.
+- **Due: Activity Verification (Friday May 21st)**
 
 ### Week Two: Pictures (Opens Monday, May 24, 2021)
 
@@ -104,14 +105,14 @@ Jason. *Tell Me Something.* Fantagraphics, 2004.
 ### Week Eight: Trauma (Opens Monday, July 5, 2021)
 
 - DeConnick, Kelly Sue, and Valentine De Landro. *Bitch Planet*, Vol. 1: Extraordinary Machine. Illustrated edition, Image Comics, 2015.
-- Gray, Brenna Clarke, and David N. Wright. “Decentering the Sexual Aggressor: Sexual Violence, Trigger Warnings and Bitch Planet.” Journal of Graphic Novels and Comics, vol. 8, no. 3, Routledge, May 2017, pp. 264–76. Taylor and Francis+NEJM, doi:10.1080/21504857.2017.1307240.
+- Gray, Brenna Clarke, and David N. Wright. “Decentering the Sexual Aggressor: Sexual Violence, Trigger Warnings and Bitch Planet.” *Journal of Graphic Novels and Comics*, vol. 8, no. 3, Routledge, May 2017, pp. 264–76. Taylor and Francis+NEJM, doi:10.1080/21504857.2017.1307240.
 - Whitted, Qiana. [“Caged and Enraged: Bitch Planet Comics Studies Round Table (Part One).” The Middle Spaces, 6 Mar. 2018.](https://themiddlespaces.com/2018/03/06/bitch-planet-1/)
 
 ### Week Nine: Heroes (Opens Monday, July 12, 2021)
 
 - Wilson, G. Willow, et al. *Ms. Marvel*, Vol. 1: No Normal. Marvel, 2014.
 - Yang, Gene Luen. *New Super-Man*, Vol. 1: Made In China. Illustrated edition, DC Comics, 2017.
-- Kent, Miriam. “Unveiling Marvels: Ms. Marvel and the Reception of the New Muslim Superheroine.” Feminist Media Studies, vol. 15, no. 3, Routledge, May 2015, pp. 522–27. Taylor and Francis+NEJM, doi:10.1080/14680777.2015.1031964.
+- Kent, Miriam. “Unveiling Marvels: Ms. Marvel and the Reception of the New Muslim Superheroine.” *Feminist Media Studies*, vol. 15, no. 3, Routledge, May 2015, pp. 522–27. Taylor and Francis+NEJM, doi:10.1080/14680777.2015.1031964.
 
 ### Week Ten: Futures (Opens Monday, July 19, 2021)
 
@@ -124,11 +125,17 @@ Jason. *Tell Me Something.* Fantagraphics, 2004.
 
 - Carroll, Emily. [*The Worthington.* 2018.](http://emcarroll.com/comics/worthington/)
 - Gillman, Melanie. [*As the Crow Flies.* 2012-2021.](https://www.melaniegillman.com/comic/01-25-2012/)
-- Resha, Adrienne. “The Blue Age of Comic Books.” Inks: The Journal of the Comics Studies Society, vol. 4, no. 1, The Ohio State University Press, 2020, pp. 66–81. Project MUSE, doi:10.1353/ink.2020.0003.
+- Resha, Adrienne. “The Blue Age of Comic Books.” *Inks: The Journal of the Comics Studies Society*, vol. 4, no. 1, The Ohio State University Press, 2020, pp. 66–81. Project MUSE, doi:10.1353/ink.2020.0003.
 
 ### Week Twelve: Final Paper (Opens Monday, August 2, 2021)
 
 - No readings: complete and submit final paper
+
+## Assignment Overviews
+
+### Academic Activity Verification
+
+We make you do this for financial aid, even if you don't have any.
 
 ## General Policies
 
