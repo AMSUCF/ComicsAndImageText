@@ -78,6 +78,7 @@ While students are welcome to purchase the individual books, all primary texts w
 - Coates, Ta-Nehisi, et al. *Black Panther: A Nation Under Our Feet,* Vol. 1.. Marvel, 2016.
 - Davis, Eleanor. *How To Be Happy.* Illustrated edition, Fantagraphics, 2014.
 - DeConnick, Kelly Sue, and Valentine De Landro. *Bitch Planet*, Vol. 1: Extraordinary Machine. Illustrated edition, Image Comics, 2015.
+- Gillman, Melanie. *As the Crow Flies.* Iron Circus Comics, 2017.
 - Hernandez, Gilbert, and Brian Evenson. *Julio’s Day.* Fantagraphics, 2013.
 - Jason. *Tell Me Something.* Fantagraphics, 2004.
 - Karasik, Paul, et al. *How to Read Nancy: The Elements of Comics in Three Easy Panels.* Illustrated edition, Fantagraphics, 2017.
@@ -127,37 +128,52 @@ This course uses an asynchronous format, and relies upon students to complete al
 
 ### Week One: "Kid Stuff" (Opens Monday, May 17, 2021)
 
+We open with an exemplar of current "all-ages" comics: *Lumberjanes*, a series that has been recognized for its feminist and queer representation, and represents the significant progress in mainstream children's comics. Using it as a lens to look back, we will discuss the history of the children's comic, and consider how the "daily newspaper" strips and ephemeral, disposable, comic books influenced early reception of the form.
+
 - *How to Read Nancy*: Strip, Script
 - Stevenson, Noelle, et al. *Lumberjanes*, Vol. 1. BOOM! - BOOM! Box, 2015.
-- Hatfield, Charles. “Comic Art, Children’s Literature, and the New Comic Studies.” *The Lion and the Unicorn*, vol. 30, no. 3, Johns Hopkins University Press, 2006, pp. 360–82. Project MUSE, doi:10.1353/uni.2006.0031.
+- Hatfield, Charles. “Comic Art, Children’s Literature, and the New Comic Studies.” *The Lion and the Unicorn*, vol. 30, no. 3, Johns Hopkins University Press, 2006, pp. 360–82.
 - **Due: Activity Verification (Friday May 21st)**
 
 ### Week Two: Pictures (Opens Monday, May 24, 2021)
 
+In week two, we use a wordless comic by Norwegian cartoonist Jason, *Tell Me Something*: through considering his sparse minimalism, we can think through the role of visual expression in image-text. We place Jason's work in the context of other wordless, or limited text, pieces, including picture books that serve a dual audience as a bridge towards literacy.
+
 - *How to Read Nancy*: Cast
-Jason. *Tell Me Something.* Fantagraphics, 2004.
-- Nikolajeva, Maria, and Carole Scott. “The Dynamics of Picturebook Communication.” *Children’s Literature in Education*, vol. 31, no. 4, 2000, pp. 225–39. DOI.org (Crossref), doi:10.1023/A:1026426902123.
+- Jason. *Tell Me Something.* Fantagraphics, 2004.
+- Nikolajeva, Maria, and Carole Scott. “The Dynamics of Picturebook Communication.” *Children’s Literature in Education*, vol. 31, no. 4, 2000, pp. 225–39.
 
 ### Week Three: Words (Opens Monday, May 31, 2021)
+
+As we move towards contemporary comics, we consider how borders are defined based on texts and their placements: using Scott Snyder and Jeff Lemire's indie-comic influenced *A.D.* as a starting point, we contextualize the ways that image-text relationships are ever-changing, and focus in on the role of words as both aesthetic and literary.
 
 - *How to Read Nancy*: Props, Costumes
 - Snyder, Scott and Jeff Lemire. *A.D. After Death*, Vol 1. Image Comics, 2016.
 - Witek, Joseph. [“Imagetext, or, Why Art Spiegelman Doesn’t Draw Comics.” *ImageText Vol 1:1*, 2004.](http://imagetext.english.ufl.edu/archives/v1_1/witek/)
+- Buxton, Marc. [“A.D. After Death: An Interview with Scott Snyder and Jeff Lemire.”](https://www.denofgeek.com/comics/ad-after-death-an-interview-with-scott-snyder-and-jeff-lemire/) *Den of Geek*, 10 Oct. 2016.
 
 ### Week Four: Time (Opens Monday, June 7, 2021)
 
+Considering the challenges and opportunities of closure, we move to exploring the space between panels, and the potential for play and experimentation with time. Using the century-spanning *Julio's Day* as a starting point, we consider how comics relates to more linearly time-driven media.
+
 - *How to Read Nancy*: Production, Staging
-- Jason. *Tell Me Something.* Fantagraphics, 2004.
-- Souza, Marcelo Mendes de. “Comic-Chronotope in Julio’s Day: Gilbert Hernandez’s Explorations of the Form-Shaping Ideologies of the Medium.” *Journal of Graphic Novels and Comics*, vol. 8, no. 4, Routledge, July 2017, pp. 359–75. Taylor and Francis+NEJM, doi:10.1080/21504857.2017.1299021.
+- Hernandez, Gilbert, and Brian Evenson. *Julio’s Day.* Fantagraphics, 2013.
+- Souza, Marcelo Mendes de. “Comic-Chronotope in Julio’s Day: Gilbert Hernandez’s Explorations of the Form-Shaping Ideologies of the Medium.” *Journal of Graphic Novels and Comics*, vol. 8, no. 4, Routledge, July 2017, pp. 359–75.
 - **Due: Comics Annotation (Sunday, June 13th)**
   
 ### Week Five: Memory (Opens Monday, June 14, 2021)
 
+As we move from time to our hazy recollections, we explore the comic as a space for memoir, considering both the nature of self-representation and the intentional use of layers of the real and the abstracted. By considering both more traditional comics and web-based work, we can consider the role that changing platforms play in comics as a site of memory.
+
 - *How to Read Nancy*: Performance
-- Brosh, Allie. "The God of Cake." [*Hyperbole and a Half.* 2010.](http://hyperboleandahalf.blogspot.com/2010/10/god-of-cake.html)
-- Quesenberry, Krista. “Intersectional and Non-Human Self-Representation in Women’s Autobiographical Comics.” *Journal of Graphic Novels and Comics*, vol. 8, no. 5, Routledge, Sept. 2017, pp. 417–32. Taylor and Francis+NEJM, doi:10.1080/21504857.2017.1355831.
+- Backderf, Derf. *My Friend Dahmer.* Illustrated edition, Harry N. Abrams, 2012.
+- Brosh, Allie. "The God of Cake." [*Hyperbole and a Half.*](http://hyperboleandahalf.blogspot.com/2010/10/god-of-cake.html) 2010.
+- Quesenberry, Krista. “Intersectional and Non-Human Self-Representation in Women’s Autobiographical Comics.” *Journal of Graphic Novels and Comics*, vol. 8, no. 5, Routledge, Sept. 2017, pp. 417–32.
+- Earle, Harriet E. H. “My Friend Dahmer: The Comic as Bildungsroman.” *Journal of Graphic Novels and Comics*, vol. 5, no. 4, Routledge, Oct. 2014, pp. 429–40.
 
 ### Week Six: Body (Opens Monday, June 21, 2021)
+
+Continuing to consider the body and its contested representation in image-text, we move to feminist imaginings and interventions, using Una's *Becoming Unbecoming* work on representing and denouncing sexual violence as a central text. We will explore the history of feminist graphic art, and its role in reshaping both indie and mainstream comics.
 
 - *How to Read Nancy*: Eye, Hand
 - Una. *Becoming Unbecoming.* Illustrated edition, Arsenal Pulp Press, 2016.*
@@ -166,11 +182,15 @@ Jason. *Tell Me Something.* Fantagraphics, 2004.
   
 ### Week Seven: Self (Opens Monday, June 28, 2021)
 
+Continuing with feminist lenses and amplifying the role of changing platforms in shaping comics authorship, distribution, and readership towards greater inclusivity, we turn to the anthology work of Eleanor Davis's *How to Be Happy.* By placing her work alongside other web and indie comics artists, we explore the current role of image-text in exploration of the self.
+
 - *How to Read Nancy*: Details, Reader, The Strip (Again)
 - Davis, Eleanor. *How To Be Happy.* Illustrated edition, Fantagraphics, 2014.
 -Brown, Hillary. [“Taking Inventory: The Comics Of Eleanor Davis |.” The Comics Journal, 16 June 2020.](http://www.tcj.com/taking-inventory-the-comics-of-eleanor-davis/)
 
 ### Week Eight: Trauma (Opens Monday, July 5, 2021)
+
+Building on our discussions of Una's work, we turn to *Bitch Planet* as an exemplar of feminist influences in mainstream comics, noting both its resonance as a work of dystopian fiction and its cultural influence through the popularization of "Non-Compliance."
 
 - DeConnick, Kelly Sue, and Valentine De Landro. *Bitch Planet*, Vol. 1: Extraordinary Machine. Illustrated edition, Image Comics, 2015.
 - Gray, Brenna Clarke, and David N. Wright. “Decentering the Sexual Aggressor: Sexual Violence, Trigger Warnings and Bitch Planet.” *Journal of Graphic Novels and Comics*, vol. 8, no. 3, Routledge, May 2017, pp. 264–76. Taylor and Francis+NEJM, doi:10.1080/21504857.2017.1307240.
@@ -179,12 +199,16 @@ Jason. *Tell Me Something.* Fantagraphics, 2004.
 
 ### Week Nine: Heroes (Opens Monday, July 12, 2021)
 
+Drawing on the ongoing threads of "indie" interventions pushing change in mainstream comics spaces, we move to the big two of comics (DC and Marvel), and  consider critical changes in race, identity, and the superhero. While we will be attentive to the impact of such work on transmedia cultural franchises, and their corresponding influence on culture, we focus on the books that represent key sites of cultural change and tensions.
+
 - Wilson, G. Willow, et al. *Ms. Marvel*, Vol. 1: No Normal. Marvel, 2014.
 - Yang, Gene Luen. *New Super-Man*, Vol. 1: Made In China. Illustrated edition, DC Comics, 2017.
 - Kent, Miriam. “Unveiling Marvels: Ms. Marvel and the Reception of the New Muslim Superheroine.” *Feminist Media Studies*, vol. 15, no. 3, Routledge, May 2015, pp. 522–27. Taylor and Francis+NEJM, doi:10.1080/14680777.2015.1031964.
 - **Due: Peer Review Feedback (Sunday, July 18th)**
 
 ### Week Ten: Futures (Opens Monday, July 19, 2021)
+
+As we draw towards the close the semester, we turn towards the future of superhero comics, considering the significant influence of Afrofuturism on the current graphical and literary imagination of image-text. Does such work suggest an anti-racist, queer, and feminist move within the mainstream of comics, shifting the margins towards the center?
 
 - Coates, Ta-Nehisi, et al. *Black Panther: A Nation Under Our Feet,* Vol. 1.. Marvel, 2016.
 - Okorafor, Nnedi, and Leonardo Romero. *Shuri: The Search for Black Panther.* Illustrated edition, Marvel, 2019.
@@ -193,13 +217,17 @@ Jason. *Tell Me Something.* Fantagraphics, 2004.
 
 ### Week Eleven: Platforms (Opens Monday, July 26, 2021)
 
+Continuing our theme of comics-futures, we turn towards the role of technology in changing the form and function of the "comic": from the square multi-paneled posts of Instagram, to the animated gif comics of Tumblr, to the motion comics popularized by larger publishers, how will technology continue to redefine the image-text and its limits?
+
 - Carroll, Emily. [*The Worthington.* 2018.](http://emcarroll.com/comics/worthington/)
-- Gillman, Melanie. [*As the Crow Flies.* 2012-2021.](https://www.melaniegillman.com/comic/01-25-2012/)
 - Explore [Webtoons](https://www.webtoons.com/en/)
+- Gillman, Melanie. *As the Crow Flies.* Iron Circus Comics, 2017.
 - Close, Samantha. “The Absent Presence of Gender in Webcomics.” *Feminist Media Studies*, vol. 15, no. 3, May 2015, pp. 533–38. DOI.org (Crossref), doi:10.1080/14680777.2015.1031969.
 - Resha, Adrienne. “The Blue Age of Comic Books.” *Inks: The Journal of the Comics Studies Society*, vol. 4, no. 1, The Ohio State University Press, 2020, pp. 66–81. Project MUSE, doi:10.1353/ink.2020.0003.
 
 ### Week Twelve: Final Paper (Submit by Saturday, August 7th)
+
+All work (including extensions granted throughout the semester) is due by the close of classes on Saturday, August 7th. Any work submitted after that time must be part of an approved incomplete.
 
 - **Due: Final Paper! Class ends Saturday, August 7th!**
 
