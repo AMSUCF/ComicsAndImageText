@@ -36,7 +36,7 @@
     - [Deployed Active Duty Military Students](#deployed-active-duty-military-students)
     - [Authorized Events and Religious Observances](#authorized-events-and-religious-observances)
   - [COVID-19 Statements and Policies](#covid-19-statements-and-policies)
-
+  
 ---
 
 ## Course Description
