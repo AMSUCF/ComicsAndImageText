@@ -32,6 +32,7 @@
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
     - [Course Accessibility Statement](#course-accessibility-statement)
+    - [Land Acknowledgement Statement](#land-acknowledgement-statement)
     - [Campus Safety Statement](#campus-safety-statement)
     - [Deployed Active Duty Military Students](#deployed-active-duty-military-students)
     - [Authorized Events and Religious Observances](#authorized-events-and-religious-observances)
@@ -115,7 +116,7 @@ There is no extra credit work available in this class. Grades will be available 
 
 ## Asynchronous Course Structure
 
-This course uses an asynchronous format, and relies upon students to complete all readings, engage with both pre-recorded and external videos, and join in on course discussions. All assignments are due on Sunday night at the close of their listed module, but will be accepted with no penalty for one week following the listed deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
+This course uses an asynchronous format, and relies upon students to complete all readings, engage with both pre-recorded and external videos, and join in on course discussions. All assignments are due on Sunday night at the close of their listed module, but will be accepted with no penalty through the next listed deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
 
 - Office hour assistance is available both through text on Webcourses messages and via Zoom: Zoom is recommended for advanced technical problems, where screen-sharing might be helpful to resolving errors.
 - All course materials are asynchronous, using a mix of video and text as appropriate. However, optional synchronous sessions approximately every two weeks (recorded for later viewing) offer an opportunity for direct Q&A, and students are encouraged to participate as their schedule permits.
@@ -177,6 +178,7 @@ Continuing to consider the body and its contested representation in image-text, 
 
 - *How to Read Nancy*: Eye, Hand
 - Una. *Becoming Unbecoming.* Illustrated edition, Arsenal Pulp Press, 2016.*
+- Mok, Annie. [*The Personal Politics of "Passing."* 2019.](https://thenib.com/the-personal-politics-of-passing/)
 - Chute, Hillary. “Feminist Graphic Art.” *Feminist Studies*, vol. 44, no. 1, Feminist Studies, Inc., 2018, pp. 153–70. JSTOR, doi:10.15767/feministstudies.44.1.0153.
 - **Due: Literature Review (Sunday, June 27th)**
   
@@ -185,6 +187,8 @@ Continuing to consider the body and its contested representation in image-text, 
 Continuing with feminist lenses and amplifying the role of changing platforms in shaping comics authorship, distribution, and readership towards greater inclusivity, we turn to the anthology work of Eleanor Davis's *How to Be Happy.* By placing her work alongside other web and indie comics artists, we explore the current role of image-text in exploration of the self.
 
 - *How to Read Nancy*: Details, Reader, The Strip (Again)
+- Rosenbaum, S.I. and Starr, Arigon. [*How to Have a Powwow in a Pandemic.* 2020.](https://thenib.com/how-to-have-a-powwow-in-a-pandemic/)
+- Chanani, Nidhi. [*Flying While Brown.* 2017.](https://thenib.com/flying-while-brown/)
 - Davis, Eleanor. *How To Be Happy.* Illustrated edition, Fantagraphics, 2014.
 -Brown, Hillary. [“Taking Inventory: The Comics Of Eleanor Davis |.” The Comics Journal, 16 June 2020.](http://www.tcj.com/taking-inventory-the-comics-of-eleanor-davis/)
 
@@ -222,6 +226,7 @@ Continuing our theme of comics-futures, we turn towards the role of technology i
 - Carroll, Emily. [*The Worthington.* 2018.](http://emcarroll.com/comics/worthington/)
 - Explore [Webtoons](https://www.webtoons.com/en/)
 - Gillman, Melanie. *As the Crow Flies.* Iron Circus Comics, 2017.
+- LaPensée, Elizabeth et al. [*When Rivers Were Trails.* 2019.](https://indianlandtenure.itch.io/when-rivers-were-trails)
 - Close, Samantha. “The Absent Presence of Gender in Webcomics.” *Feminist Media Studies*, vol. 15, no. 3, May 2015, pp. 533–38. DOI.org (Crossref), doi:10.1080/14680777.2015.1031969.
 - Resha, Adrienne. “The Blue Age of Comic Books.” *Inks: The Journal of the Comics Studies Society*, vol. 4, no. 1, The Ohio State University Press, 2020, pp. 66–81. Project MUSE, doi:10.1353/ink.2020.0003.
 
@@ -264,7 +269,13 @@ Students should also familiarize themselves with the procedures for academic mis
 
 ### Course Accessibility Statement
 
-The University of Central Florida is committed to providing access and inclusion for all persons with disabilities. Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with [Student Accessibility Services (SAS)](http://sas.sdes.ucf.edu/) (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable. Determining reasonable access and accommodations requires consideration of the course design, course learning objectives and the individual academic and course barriers experienced by the student. Further conversation with SAS, faculty and the student may be warranted to ensure an accessible course experience.
+This course is built with universal design for learning principles in mind: if you encounter challenges with any of the course materials, assignments, platforms, or requirements, please reach out for assistance, and know that additional support is always available regardles of documentation.
+
+Additionally, the University of Central Florida is committed to providing access and inclusion for all persons with disabilities. Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with [Student Accessibility Services (SAS)](http://sas.sdes.ucf.edu/) (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable. Determining reasonable access and accommodations requires consideration of the course design, course learning objectives and the individual academic and course barriers experienced by the student. Further conversation with SAS, faculty and the student may be warranted to ensure an accessible course experience.
+
+### Land Acknowledgement Statement
+
+The UCF Department of English acknowledges that our main campus stands on the traditional territories of the Seminole and Timucua peoples, and that other Native American traditional territories exist throughout Florida where our regional campuses are located. We collectively recognize their continuing connection to the land, water, and air and pay respect to their elders past, present, and emerging. We recognize the continuing consequences of colonialism on Indigenous peoples and their resilience in the face of colonial and state sponsored violence, and we fully endorse Indigenous Sovereignty.
 
 ### Campus Safety Statement
 
@@ -282,8 +293,6 @@ Students who are deployed active duty military and/or National Guard personnel a
 Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied.
 
 Students must notify their instructor in advance if they intend to miss class for a religious observance. For more information, see the [UCF policy](http://regulations.ucf.edu/chapter5/documents/5.020ReligiousObservancesFINALJan19.pdf).
-
----
 
 ## COVID-19 Statements and Policies
 
