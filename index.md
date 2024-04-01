@@ -32,11 +32,11 @@
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
     - [Course Accessibility Statement](#course-accessibility-statement)
-    - [Land Acknowledgement Statement](#land-acknowledgement-statement)
     - [Campus Safety Statement](#campus-safety-statement)
     - [Deployed Active Duty Military Students](#deployed-active-duty-military-students)
-    - [Authorized Events and Religious Observances](#authorized-events-and-religious-observances)
-  - [COVID-19 Statements and Policies](#covid-19-statements-and-policies)
+    - [Make-Up Assignments for Authorized University Events or Co-curricular Activities](#make-up-assignments-for-authorized-university-events-or-co-curricular-activities)
+    - [Religious Observances](#religious-observances)
+    - [Title IX Policy](#title-ix-policy)
   
 ---
 
@@ -273,36 +273,30 @@ This course is built with universal design for learning principles in mind: if y
 
 Additionally, the University of Central Florida is committed to providing access and inclusion for all persons with disabilities. Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with [Student Accessibility Services (SAS)](http://sas.sdes.ucf.edu/) (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable. Determining reasonable access and accommodations requires consideration of the course design, course learning objectives and the individual academic and course barriers experienced by the student. Further conversation with SAS, faculty and the student may be warranted to ensure an accessible course experience.
 
-### Land Acknowledgement Statement
-
-The UCF Department of English acknowledges that our main campus stands on the traditional territories of the Seminole and Timucua peoples, and that other Native American traditional territories exist throughout Florida where our regional campuses are located. We collectively recognize their continuing connection to the land, water, and air and pay respect to their elders past, present, and emerging. We recognize the continuing consequences of colonialism on Indigenous peoples and their resilience in the face of colonial and state sponsored violence, and we fully endorse Indigenous Sovereignty.
-
 ### Campus Safety Statement
 
-In the event you are working from or near campus, please note the following policies with regards to campus safety:
+Emergencies on campus are rare, but if one should arise during class, everyone needs to work together. Students should be aware of their surroundings and familiar with some basic safety and security concepts.
 
-- To stay informed about emergency situations, students can sign up to receive UCF text alerts by going to <https://my.ucf.edu> and logging in. Click on “Student Self Service” located on the left side of the screen in the toolbar, scroll down to the blue “Personal Information” heading on the Student Center screen, click on “UCF Alert”, fill out the information, including e-mail address, cell phone number, and cell phone provider, click “Apply” to save the changes, and then click “OK.”
+- In case of an emergency, dial 911 for assistance.
+- Every UCF classroom contains an emergency procedure guide posted on a wall near the door. Students should make a note of the guide’s physical location and review the [online version](http://emergency.ucf.edu/emergency_guide.html).
+- Students should know the evacuation routes from each of their classrooms and have a plan for finding safety in case of an emergency.
+- If there is a medical emergency during class, students may need to access a first-aid kit or AED (Automated External Defibrillator). To learn where those are located, see [locations](https://ehs.ucf.edu/automated-external-defibrillator-aed-locations).
+- To stay informed about emergency situations, students can sign up to receive UCF text alerts by going to [MyUCF](https://my.ucf.edu) and logging in. Click on “Student Self Service” located on the left side of the screen in the toolbar, scroll down to the blue “Personal Information” heading on the Student Center screen, click on “UCF Alert”, fill out the information, including e-mail address, cell phone number, and cell phone provider, click “Apply” to save the changes, and then click “OK.”
 - Students with special needs related to emergency situations should speak with their instructors outside of class.
+- To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this [video](https://youtu.be/NIKYajEx4pk).
 
 ### Deployed Active Duty Military Students
 
 Students who are deployed active duty military and/or National Guard personnel and require accommodation should contact their instructors as soon as possible after the semester begins and/or after they receive notification of deployment to make related arrangements.
 
-### Authorized Events and Religious Observances
+### Make-Up Assignments for Authorized University Events or Co-curricular Activities
 
-Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied.
+Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied. For more information, see the [UCF policy]("https://policies.ucf.edu/documents/4-401.pdf").
+
+### Religious Observances
 
 Students must notify their instructor in advance if they intend to miss class for a religious observance. For more information, see the [UCF policy](http://regulations.ucf.edu/chapter5/documents/5.020ReligiousObservancesFINALJan19.pdf).
 
-## COVID-19 Statements and Policies
+### Title IX Policy
 
-To protect members of our community, everyone is required to wear a facial covering inside all common spaces including [classrooms](https://policies.ucf.edu/documents/PolicyEmergencyCOVIDReturnPolicy.pdf). Students who choose not to wear facial coverings will be asked to leave the classroom by the instructor. If they refuse to leave the classroom or put on a facial covering, they may be considered disruptive (please see the Golden Rule for student behavior expectations). Faculty have the right to cancel class if the safety and well-being of class members are in jeopardy. Students will be responsible for the material that would have been covered in class as provided by the instructor.  
-
-Depending on the course of the pandemic during the semester, the university may make changes to the way classes are offered. If that happens, please look for announcements or messages in Webcourses@UCF or Knights email about changes specific to this course.
-
-**COVID-19 and Illness Notification** – Students who believe they may have a COVID-19 diagnosis should contact UCF Student Health Services (407-823-2509) so proper contact tracing procedures can take place.
-Students should not come to campus if they are ill, are experiencing any symptoms of COVID-19, have tested positive for COVID, or if anyone living in their residence has tested positive or is sick with COVID-19 symptoms. CDC guidance for COVID-19 symptoms is [located here](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)
-
-Students should contact their instructor(s) as soon as possible if they miss class for any illness reason to discuss reasonable adjustments that might need to be made. When possible, students should contact their instructor(s) before missing class.
-
-**In Case of Faculty Illness** – If the instructor falls ill during the semester, there may be changes to this course, including having a backup instructor take over the course. Please look for announcements or mail in Webcourses@UCF or Knights email for any alterations to this course.
+Title IX prohibits sex discrimination, including sexual misconduct, sexual violence, sexual harassment, and retaliation. If you or someone you know has been harassed or assaulted, you can find resources available to support the victim, including confidential resources and information concerning reporting options at [Let's Be Clear](https://letsbeclear.ucf.edu) and [CARES](http://cares.sdes.ucf.edu/).
