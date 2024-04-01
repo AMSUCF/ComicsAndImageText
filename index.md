@@ -76,18 +76,19 @@ Each week, plan on following following instructions in online modules regarding 
 
 While students are welcome to purchase the individual books, all primary texts will be available through [Comixology Unlimited](https://www.amazon.com/kindle-dbs/cu/signup), a service with a free one-month trial ($6 monthly after) that is significantly cheaper than the purchase price of the course texts. Additional texts will be available as PDFs.
 
-- Coates, Ta-Nehisi, et al. *Black Panther: A Nation Under Our Feet,* Vol. 1., Marvel, 2016.
+- Coates, Ta-Nehisi, et al. *Black Panther: A Nation Under Our Feet,* Vol. 1, Marvel, 2016.
 - Takei, George. *They Called Us Enemy,* Random House, 2020. 
-- Lemire, Jeff. *Sweet Tooth: Out of the Deep Woods* Vol. 1., Vertigo, 2010. 
+- Lemire, Jeff. *Sweet Tooth: Out of the Deep Woods* Vol. 1, Vertigo, 2010. 
 - Kobabe, Maia. *Gender Queer*, Lion Forge Comics, 2019.
 - Campbell, Eddie. *The Second Fake Death of Eddie Campbell & The Fate of the Artist*, Top Shelf Productions, 2023.
 - Morrison, Grant, et al. *All-Star Superman*, DC Black Label, 2018.
+- Kinney, Jeff. *Diary of a Wimpy Kid*, Vol. 1, Amulet Books, 2007.
 - Shulz, Charles. *The Complete Peanuts Vol 1: 1950-1952*, Fantagraphics, 2004.
 - Hernandez, Gilbert, and Brian Evenson. *Julio’s Day.* Fantagraphics, 2013.
 - Jason. *Tell Me Something.* Fantagraphics, 2004.
 - Karasik, Paul, et al. *How to Read Nancy: The Elements of Comics in Three Easy Panels.* Illustrated edition, Fantagraphics, 2017.
 - Satrapi, Marjane. *Embroideries*, Pantheon Graphic Library, 2006.
-- Wilson, G. Willow, et al. *Ms. Marvel*, Vol. 1: No Normal. Marvel, 2014.
+- Wilson, G. Willow, et al. *Ms. Marvel*, Vol. 1: No Normal, Marvel, 2014.
 - Yang, Gene Luen. *American Born Chinese*, First Second, 2021.
 
 Supplementary recommended readings are included in each module to guide work towards the final research paper, while providing additional entry points into each form and genre under examination. Recommended primary texts will take advantage of the "Unlimited" offerings in Comixology. Not all works need to be read in their completion (guidance and suggestions will be offered in the modules), but as graphic novels are generally short, we will typically look at one to two primary texts a week alongside supplemental secondary readings.
@@ -128,9 +129,10 @@ This course uses an asynchronous format, and relies upon students to complete al
 
 ### Week One: "Kid Stuff" (Opens Monday, May 13)
 
-We open with an exemplar of a classic "all-ages" comics: *Peanuts*, a still-iconic newspaper daily comic. Using it alongside current and past *Nancy* as a lens to look back, we will discuss the history of the children's comic, and consider how the "daily newspaper" strips and ephemeral, disposable, comic books influenced early reception of the form.
+We open with an exemplar of a classic "all-ages" comics: *Peanuts*, a still-iconic newspaper daily comic. Using it alongside current and past *Nancy* and the *Diary of a Wimpy Kid* series, we will discuss the history of the children's comic, and consider how the "daily newspaper" strips and ephemeral, disposable, comic books influenced early reception of the form.
 
 - *How to Read Nancy*: Strip, Script
+- Kinney, Jeff. *Diary of a Wimpy Kid*, Vol. 1, Amulet Books, 2007.
 - Shulz, Charles. *The Complete Peanuts Vol 1: 1950-1952*, Fantagraphics, 2004.
 - Hatfield, Charles. “Comic Art, Children’s Literature, and the New Comic Studies.” *The Lion and the Unicorn*, vol. 30, no. 3, Johns Hopkins University Press, 2006, pp. 360–82.
 - **Due: Activity Verification (Friday, May 19th)**
