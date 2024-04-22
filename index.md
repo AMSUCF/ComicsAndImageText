@@ -27,7 +27,7 @@
     - [Week Nine: Heroes (Opens Monday, July 8)](#week-nine-heroes-opens-monday-july-8)
     - [Week Ten: Futures (Opens Monday, July 15)](#week-ten-futures-opens-monday-july-15)
     - [Week Eleven: Platforms (Opens Monday, July 22)](#week-eleven-platforms-opens-monday-july-22)
-    - [Week Twelve: Final Paper (Submit by Friday, August 2nd)](#week-twelve-final-paper-submit-by-friday-august-2nd)
+    - [Week Twelve: Revision Plan and Reflection (Submit by Friday, August 2nd)](#week-twelve-revision-plan-and-reflection-submit-by-friday-august-2nd)
   - [General Policies](#general-policies)
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
@@ -103,8 +103,8 @@ Supplementary recommended readings are included in each module to guide work tow
 | 40  | **Discussions** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. Students are encouraged to use screenshots from the works under discussion, and models will be provided for annotating and engaging through these visuals. | Weekly |
 | 10 | **Comics Annotation** - Using the methodology of *How to Read Nancy*, annotate a section of the work chosen for final analysis. Students are encouraged to use graphics programs to break down the panels and components, and draw attention to details of symbolism, design, and structure in the chosen sequence. A 2-page spread is recommended.  | Sunday, June 9th  |
 | 10 |  **Literature Review** - Following the selection of a text or text(s) for the final project, students will develop a literature review to become familiar with the discussion of the work or its genre. Plan to gather at least five additional scholarly sources, and two journalistic or fan sources, to complete a literature review for the final analysis paper. Students are encouraged to use Zotero to manage their works cited efficiently. | Sunday, June 23rd |
-| 15  |  **Paper Draft** - An approximately 3,000 to 4,000 word draft of a final paper targeting a single graphic novel or comic, chosen in consulation with the professor, and building from the annotation and literature review. Students should follow the formatting guidelines of their chosen venue, or default to MLA requirements if targeting a conference without specific format requirements. This drdaft is graded on completion only, but will serve as the foundation for both peer and instructor feedback to guide revisions. | Sunday, July 21st  |
-| 20 |  **Final Paper** - At the closure of the course, students will have completed a 4,000 to 5,000 word draft of the final paper, targeted towards one of the suggested venues, and prepared with future submission in mind. Final papers should be submitted with a brief summary overview of all revisions, with specific notes regarding how instructor feedback influenced the final writing. | Friday, August 2nd  |
+| 25  |  **Paper Draft** - An approximately 3,500 to 5,000 word draft of a final paper targeting a single graphic novel or comic, chosen in consulation with the professor, and building from the annotation and literature review. Students should follow the formatting guidelines of their chosen venue, or default to MLA requirements if targeting a conference without specific format requirements. This draft should be coherent and complete, and will serve as the foundation for instructor feedback to guide revision planning. | Sunday, July 21st  |
+| 10 |  **Revision Plan and Reflection** - Afer receiving feedback, students will complete a revision plan and reflection, speaking to plans for future work and the student's goals in targeting their revised work to a specific venue or purpose. Revision plans and reflections should be between 500 and 750 words. | Friday, August 2nd  |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
@@ -230,11 +230,11 @@ Continuing our theme of comics-futures, we turn towards the role of technology i
 - Close, Samantha. “The Absent Presence of Gender in Webcomics.” *Feminist Media Studies*, vol. 15, no. 3, May 2015, pp. 533–38. DOI.org (Crossref), doi:10.1080/14680777.2015.1031969.
 - Resha, Adrienne. “The Blue Age of Comic Books.” *Inks: The Journal of the Comics Studies Society*, vol. 4, no. 1, The Ohio State University Press, 2020, pp. 66–81. Project MUSE, doi:10.1353/ink.2020.0003.
 
-### Week Twelve: Final Paper (Submit by Friday, August 2nd)
+### Week Twelve: Revision Plan and Reflection (Submit by Friday, August 2nd)
 
 All work (including extensions granted throughout the semester) is due by the close of classes on Saturday, August 7th. Any work submitted after that time must be part of an approved incomplete.
 
-- **Due: Final Paper! Class ends Friday, August 2nd!**
+- **Due: Revision Plan and Reflection! Class ends Friday, August 2nd!**
 
 ---
 
