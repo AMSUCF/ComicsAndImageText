@@ -133,7 +133,7 @@ We open with an exemplar of a classic "all-ages" comics: *Peanuts*, a still-icon
 
 - *How to Read Nancy*: Strip, Script
 - Kinney, Jeff. *Diary of a Wimpy Kid*, Vol. 1, Amulet Books, 2007.
-- Shulz, Charles. *The Complete Peanuts Vol 1: 1950-1952*, Fantagraphics, 2004.
+- Shulz, Charles. *The Complete Peanuts Vol 1: 1950-1952*, Fantagraphics, 2004. (Read pages 1-50)
 - Hatfield, Charles. “Comic Art, Children’s Literature, and the New Comic Studies.” *The Lion and the Unicorn*, vol. 30, no. 3, Johns Hopkins University Press, 2006, pp. 360–82.
 - **Due: Activity Verification (Friday, May 19th)**
 
@@ -190,7 +190,7 @@ Continuing with the exploration of comics as a mediation on memory and culture, 
 - Rosenbaum, S.I. and Starr, Arigon. [*How to Have a Powwow in a Pandemic.* 2020.](https://thenib.com/how-to-have-a-powwow-in-a-pandemic/)
 - Chanani, Nidhi. [*Flying While Brown.* 2017.](https://thenib.com/flying-while-brown/)
 - Satrapi, Marjane. *Embroideries*, Pantheon Graphic Library, 2006.
--Brown, Hillary. [“Taking Inventory: The Comics Of Eleanor Davis |.” The Comics Journal, 16 June 2020.](http://www.tcj.com/taking-inventory-the-comics-of-eleanor-davis/)
+- Rocca, A.J. ["Are Marjane Satrapi's Works Comics or Graphic Novels?" 2020.](https://www.popmatters.com/marjane-satrapi-2649030526-html)
 
 ### Week Eight: Adaptation (Opens Monday, July 1)
 
@@ -214,7 +214,6 @@ Drawing on the ongoing threads of "indie" interventions pushing change in mainst
 As we draw towards the close the semester, we turn towards the future of superhero comics, considering the significant influence of Afrofuturism on the current graphical and literary imagination of image-text. Does such work suggest an anti-racist, queer, and feminist move within the mainstream of comics, shifting the margins towards the center?
 
 - Coates, Ta-Nehisi, et al. *Black Panther: A Nation Under Our Feet,* Vol. 1.. Marvel, 2016.
-- Okorafor, Nnedi, and Leonardo Romero. *Shuri: The Search for Black Panther.* Illustrated edition, Marvel, 2019.
 - carrington, andré. “Desiring Blackness: A Queer Orientation to Marvel’s Black Panther, 1998–2016.” *American Literature*, vol. 90, no. 2, June 2018, pp. 221–50. Silverchair, doi:10.1215/00029831-4564286.
 - Chambliss, Julian C. “The Evolution of the Idea.” Science Fiction Film and Television, vol. 12, no. 3, Liverpool University Press, 2019, pp. 373–80.
 - **Due: Paper Draft (Sunday, July 21st)**
